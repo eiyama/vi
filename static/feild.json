@@ -1,0 +1,86 @@
+{
+  "field": [
+    {
+    "category": "意外险",
+    "fields": [{
+        "fieName": "意外险1",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      },
+      {
+        "fieName": "意外险2",
+        "fieldType": "input",
+        "maxLength": 100,
+        "value": ""
+      },
+      {
+        "fieName": "意外险3",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      },
+      {
+        "fieName": "意外险4",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      }
+    ]
+  }, {
+    "category": "综合险",
+    "fields": [{
+        "fieName": "综合险1",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      },
+      {
+        "fieName": "综合险2",
+        "fieldType": "input",
+        "maxLength": 100,
+        "value": ""
+      },
+      {
+        "fieName": "综合险3",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      },
+      {
+        "fieName": "综合险4",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      }
+    ]
+  }, {
+    "category": "一切险",
+    "fields": [{
+        "fieName": "一切险1",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      },
+      {
+        "fieName": "一切险2",
+        "fieldType": "input",
+        "maxLength": 100,
+        "value": ""
+      },
+      {
+        "fieName": "一切险3",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": ""
+      },
+      {
+        "fieName": "一切险4",
+        "fieldType": "input",
+        "maxLength": "100",
+        "value": "10"
+      }
+    ]
+  }
+  ]
+}

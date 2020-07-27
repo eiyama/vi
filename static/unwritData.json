@@ -1,0 +1,149 @@
+{
+  "result": {
+    "isRequireMaterial": false,
+    "insBatchNo": "6369949330429048170140",
+    "quotationNo": "24772fcd638943c6b3cf6eb4938b843e",
+    "insureStatus": "QuotedSuccess",
+    "premium": 9525.35,
+    "insCorp": {
+      "shortName": "中国人保",
+      "code": "picc"
+    },
+    "insCity": {
+      "shortName": "东莞",
+      "code": "441900"
+    },
+    "insChannel": {
+      "channelName": "东莞聚成本田"
+    },
+    "car": {
+      "owner": {
+        "idType": "IdCard",
+        "relationType": "Person",
+        "birthday": "1975-03-06 00:00:00",
+        "gender": "Female",
+        "name": "文凌",
+        "phone": "13165113006",
+        "idNo": "432325197503067328"
+      },
+      "plateNo": "粤S145B9",
+      "vin": "WBASZ6106GG166831",
+      "engineNo": "A4991469N20B20A",
+      "brandName": "",
+      "model": "宝马BMW 528i GT轿车",
+      "makerModel": "BMI1444DGB",
+      "vehicleModelCode": "BMAAKI0063",
+      "purchasePrice": 541000.0,
+      "analogyCarPrice": 541000.0,
+      "year": 2013,
+      "passengerCapacity": 5,
+      "registerDate": "2016-09-05 00:00:00",
+      "exhaustMeasure": 0.0,
+      "isChangedOwner": false,
+      "changedOwnerCoverage": "None",
+      "fullPriceModel": "BMI1444DGB/宝马BMW 528i GT轿车/5座/2013/541000",
+      "useCharacter": "FeiYingYe",
+      "licenseVehicleType": "K33",
+      "licenceType": "SmallBus",
+      "energyType": "RanYou",
+      "wholeWeight": 2.075,
+      "weightCapacity": 0.0
+    },
+    "applicant": {
+      "idType": "IdCard",
+      "relationType": "Person",
+      "birthday": "1975-03-06 00:00:00",
+      "gender": "Female",
+      "name": "文凌",
+      "phone": "13165113006",
+      "idNo": "432325197503067328"
+    },
+    "insured": {
+      "idType": "IdCard",
+      "relationType": "Person",
+      "birthday": "1975-03-06 00:00:00",
+      "gender": "Female",
+      "name": "文凌",
+      "phone": "13165113006",
+      "idNo": "432325197503067328"
+    },
+    "bzRiskKind": {
+      "vehicleTax": {
+        "totalTax": 360.0,
+        "tax": 360.0,
+        "preTax": 0.0,
+        "lateFeesOfTax": 0.0
+      },
+      "beginDate": "2019-07-29 00:00:00",
+      "endDate": "2020-07-28 23:59:59",
+      "premium": 855.0,
+      "insDiscount": 0.9
+    },
+    "bsRiskKind": {
+      "items": [
+        {
+          "riskKindItemName": "车损险",
+          "premium": 4721.14,
+          "deductiblePremium": 708.17,
+          "coverage": "430636",
+          "riskKindItemCode": "CSX",
+          "isDeductible": true
+        },
+        {
+          "riskKindItemName": "三者险",
+          "premium": 837.78,
+          "deductiblePremium": 125.67,
+          "coverage": "500000",
+          "riskKindItemCode": "SZX",
+          "isDeductible": true
+        },
+        {
+          "riskKindItemName": "司机责任险",
+          "premium": 113.8,
+          "deductiblePremium": 17.07,
+          "coverage": "50000",
+          "riskKindItemCode": "SJZRX",
+          "isDeductible": true
+        },
+        {
+          "riskKindItemName": "乘客责任险",
+          "premium": 292.63,
+          "quantity": 4,
+          "deductiblePremium": 43.89,
+          "coverage": "50000",
+          "riskKindItemCode": "CKZRX",
+          "isDeductible": true
+        },
+        {
+          "riskKindItemName": "盗抢险",
+          "premium": 1208.5,
+          "deductiblePremium": 241.7,
+          "coverage": "430636",
+          "riskKindItemCode": "DQX",
+          "isDeductible": true
+        }
+      ],
+      "beginDate": "2019-07-29 00:00:00",
+      "endDate": "2020-07-28 23:59:59",
+      "premium": 8310.35,
+      "insDiscount": 0.5419
+    },
+    "costDisplay": "Salesman",
+    "costs": [
+      {
+        "orgCode": ".1.",
+        "orgName": "邦德科技",
+        "salesmanId": 0,
+        "level": 0
+      },
+      {
+        "orgCode": ".1.",
+        "orgName": "邦德科技",
+        "salesmanId": 3,
+        "salesmanName": "测试",
+        "level": 1
+      }
+    ]
+  },
+  "status": 200
+}
