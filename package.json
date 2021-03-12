@@ -18,7 +18,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.4.11",
     "html2canvas": "^1.0.0-rc.5",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "mint-ui": "^2.2.13",
     "qrcodejs2": "^0.0.2",
     "signalr": "^2.4.1",
